@@ -1,5 +1,0 @@
-'''
-Connection with the database
-'''
-
-
